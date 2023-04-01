@@ -6,7 +6,7 @@
 
 body{
     text-align: center;
-    margin-top: 100px;
+
 }
 
 .container {
@@ -26,7 +26,7 @@ input, textarea, button {
     width: 100%;
 }
 button{
-    background-color: blue;
+    background-color: rgb(3, 3, 248);
     color:#ffffff;
 }
 button:hover {
